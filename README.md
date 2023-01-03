@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Budget App
+
+This budget app, created with React, allows you to enter your income + expenses and calculates your balance.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
